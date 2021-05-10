@@ -19,9 +19,3 @@ The image is removed from the directory.
 # Run
 To start the bot, you need to set the bot token `BOT_TOKEN` in the environment variable and run `python main.py`.
 
-# Note
-To improve the style of the code were applied: isort, black, pylint
-(contact the developer for their configs).
-
-# License
-**Skype**: dinamo.mutu
